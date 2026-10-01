@@ -1,0 +1,6 @@
+aluno1:computacao:8.5
+aluno2:computacao:7.0
+aluno3:dados:9.2
+aluno1:computacao:8.5
+aluno4:dados:6.5
+aluno2:computacao:7.0

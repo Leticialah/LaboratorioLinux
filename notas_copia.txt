@@ -1,0 +1,4 @@
+aluno1:8.5
+aluno2:7.0
+aluno3:9.2
+aluno4:6.5

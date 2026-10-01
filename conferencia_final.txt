@@ -1,0 +1,62 @@
+CONFERÊNCIA FINAL DO PROJETO
+Usuário: aluno
+Diretório: /mnt/data/atividade_linux_iesb/laboratorio_iesb
+
+DIRETÓRIOS:
+.
+./backup
+./backup/documentos
+./dados
+./documentos
+./logs
+./projeto
+./projeto/docs
+./projeto/src
+./projeto/testes
+./resultados
+
+ARQUIVOS:
+./backup/backup_final_iesb.tar.gz
+./backup/documentos/alunos_copia.txt
+./backup/documentos/notas_copia.txt
+./backup/documentos/resumo_projeto.txt
+./backup/documentos/versao1.txt
+./backup/documentos/versao2.txt
+./backup/projeto_iesb.tar
+./dados/alunos.txt
+./dados/notas.txt
+./dados/registros.txt
+./documentos/a.txt
+./documentos/alunos_copia.txt
+./documentos/b.txt
+./documentos/c.txt
+./documentos/lista.txt
+./documentos/notas_copia.txt
+./documentos/resumo_projeto.txt
+./documentos/teste.txt
+./documentos/versao1.txt
+./documentos/versao2.txt
+./logs/sistema.log
+./projeto/docs/README.txt
+./resultados/alunos_distintos.txt
+./resultados/conferencia_final.txt
+./resultados/contagem_alunos.txt
+./resultados/contagem_logs.txt
+./resultados/identificacao.txt
+./resultados/listagem.txt
+./resultados/nomes.txt
+./resultados/notas.txt
+./resultados/relatorio_final.txt
+./resultados/titulo.txt
+
+QUANTIDADE TOTAL DE ARQUIVOS:
+32
+
+TAMANHO DA ESTRUTURA:
+156K
+
+BACKUPS:
+total 20K
+-rw-r--r-- 1 root oai_shared 1.2K Oct  1 11:50 backup_final_iesb.tar.gz
+drwxr-sr-x 2 root oai_shared 4.0K Oct  1 11:50 documentos
+-rw-r--r-- 1 root oai_shared  10K Oct  1 11:50 projeto_iesb.tar

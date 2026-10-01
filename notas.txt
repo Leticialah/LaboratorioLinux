@@ -1,0 +1,4 @@
+marina:8.8
+bruno:7.4
+carla:9.1
+andré:8.0

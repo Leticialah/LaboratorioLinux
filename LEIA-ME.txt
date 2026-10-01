@@ -1,4 +1,4 @@
-ATIVIDADE LINUX IESB — ETAPA 22 EM DIANTE
+ATIVIDADE LINUX
 
 Conteúdo:
 - laboratorio_iesb/: estrutura principal, relatório final, backups e conferência.

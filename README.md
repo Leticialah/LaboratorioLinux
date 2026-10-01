@@ -1,1 +1,13 @@
 # LaboratorioLinux
+
+Conteúdo:
+- laboratorio_iesb/: estrutura principal, relatório final, backups e conferência.
+- desafio_iesb/: desafio final com dados próprios, relatório e backup .tar.gz.
+
+Arquivos principais:
+- laboratorio_iesb/resultados/relatorio_final.txt
+- laboratorio_iesb/resultados/conferencia_final.txt
+- laboratorio_iesb/backup/projeto_iesb.tar
+- laboratorio_iesb/backup/backup_final_iesb.tar.gz
+- desafio_iesb/relatorios/relatorio_desafio.txt
+- desafio_iesb/backup/desafio_iesb.tar.gz
